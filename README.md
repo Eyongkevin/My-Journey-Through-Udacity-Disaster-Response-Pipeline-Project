@@ -1,1 +1,0 @@
-# My-Journey-Through-Udacity-Disaster-Response-Pipeline-Project
